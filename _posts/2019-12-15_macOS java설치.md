@@ -1,8 +1,10 @@
 터미널에서 작업
 <h1>jdk macOS 설치</h1>
 <h2>jdk6이하</h2>
-$ brew tap homebrew/cask-versions<br>
+~~~
+$ brew tap homebrew/cask-versions
 $ brew cask install java6
+~~~
 
 <h2>jdk7이상</h2>
 $ brew tap AdoptOpenJdk/openjdk<br>
